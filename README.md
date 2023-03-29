@@ -3,7 +3,7 @@ This is a full stack application that utilizes a React front-end and a Flask bac
 
 
 # Purpose
-This small app was created to showcase my skills and range of expertise, plus it sounded fun to create. My thinking is that such a nueral network, scaled up properly, could be used as a safety measure to avoid misunderstandings. I will admit that it is likely any such regulatory body would likely use other sophisticated measures of detection, but I stil thought it would be a fun little project.
+This small app was created to showcase my skills and that I am comftorable learning new technologies at any part of the stack, plus it sounded fun to create. My thinking is that such a nueral network, scaled up properly, could be used as a safety measure to avoid misunderstandings. I will admit that it is likely any such regulatory body would likely use other sophisticated measures of detection, but I stil thought it would be a fun little project.
 
 
 # Side features
