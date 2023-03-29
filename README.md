@@ -9,7 +9,7 @@ This app is a true reflection of my passion for technology and my eagerness to l
 
 Through this project, I was able to demonstrate my ability to master new technologies such as React, Flask, and TensorFlow, as well as incorporate additional features such as a web scraper and a planned SQL database to improve the app's functionality.
 
-While it's true that regulatory bodies already employ other sophisticated detection methods, Spaceship or Missile stands as a testament to the creative applications of neural networks in real-world scenarios and adds an additional layer of support to existing safety protocols. Plua it just sounded like fun to build!
+While it's true that regulatory bodies already employ other sophisticated detection methods, Spaceship or Missile stands as a testament to the creative applications of neural networks in real-world scenarios and adds an additional layer of support to existing safety protocols. Plus it just sounded like fun to build!
 
 
 # Note
