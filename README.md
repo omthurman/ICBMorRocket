@@ -6,7 +6,7 @@ Though the model's performance is currently not optimal due to limited training 
 # Purpose
 This  app was designed to showcase my ability to adapt to and master new technologies across the entire stack, while also delivering an engaging and enjoyable user experience. By developing a neural network that can differentiate between spacecraft and missiles, this technology has the potential to serve as a safety measure to prevent misunderstandings and ensure security.
 
-While it's true that regulatory bodies may already employ other sophisticated detection methods, Spaceship or Missile stands as a testament to the creative applications of neural networks in real-world scenarios and adds an additional layer of support to existing safety protocols. Plua it just sounded like fun to build!
+While it's true that regulatory bodies already employ other sophisticated detection methods, Spaceship or Missile stands as a testament to the creative applications of neural networks in real-world scenarios and adds an additional layer of support to existing safety protocols. Plua it just sounded like fun to build!
 
 
 # Side features
