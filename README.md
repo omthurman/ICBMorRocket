@@ -3,7 +3,7 @@ Welcome to the Spaceship or Missile! A full stack application that utilizes a Re
 
 
 # Purpose
-This small app was created to showcase my skills and range of expertise, plus it sounded fun to create. 
+This small app was created to showcase my skills and range of expertise, plus it sounded fun to create. My thinking is that such a nueral network, scaled up properly, could be used as a safety measure to avoid misunderstandings. I will admit that it is likely any such regulatory body would likely use other measures of detection such as radar, but I stil thought it would be a fun little project.
 
 
 # Side features
