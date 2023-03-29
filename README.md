@@ -1,5 +1,5 @@
 # Welcome to Spaceship or Missile!
-Welcome to Spaceship or Missile, a cutting-edge full stack application that combines a React front-end and a Flask back-end to host a TensorFlow-based neural network image classifier. Users can upload images, enabling the image classifier model to make predictions by distinguishing between Falcon 9 rockets and an assortment of missiles.
+Welcome to Spaceship or Missile, a full stack application that combines a React front-end and a Flask back-end to host a TensorFlow-based neural network image classifier. Users can upload images, enabling the image classifier model to make predictions by distinguishing between Falcon 9 rockets and an assortment of missiles.
 
 Though the model's performance is currently not optimal due to limited training data (approximately 100 images), I am confident that with a more extensive dataset, this application has the potential to scale impressively and deliver more accurate results.
 
