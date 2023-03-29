@@ -1,5 +1,5 @@
-# Image Classifier App: React-Flask Neural Network
-Welcome to the Spaceship or Missile! A full stack application that utilizes a React front-end and a Flask back-end to host a neural network image classifier built with tensorflow. This application allows users to upload images and receive predictions from the image classifier model, which has been trained to recognize the Falcon 9 rocket as well as an array of Missiles. The performance on the model is not great, and it frequently gets things wrong. That is because it has only been trained on around 100 images total, I believe with more training data this app would scale very well.
+# Welcome to the Spaceship or Missile!
+This is a full stack application that utilizes a React front-end and a Flask back-end to host a neural network image classifier built with tensorflow. This application allows users to upload images and receive predictions from the image classifier model, which has been trained to recognize the Falcon 9 rocket as well as an array of Missiles. The performance on the model is not great, and it frequently gets things wrong. That is because it has only been trained on around 100 images total, I believe with more training data this app would scale very well.
 
 
 # Purpose
