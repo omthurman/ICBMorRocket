@@ -1,11 +1,12 @@
 # Welcome to the Spaceship or Missile!
-This is a full stack application that utilizes a React front-end and a Flask back-end to host a neural network image classifier built with tensorflow. This application allows users to upload images and receive predictions from the image classifier model, which has been trained to recognize the Falcon 9 rocket as well as an array of Missiles. The performance on the model is not great, and it frequently gets things wrong. That is because it has only been trained on around 100 images total, I believe with more training data this app would scale very well.
 
 
-# Purpose
-This small app was created to showcase my skills and that I am comftorable learning new technologies at any part of the stack, plus it sounded fun to create. My thinking is that such a nueral network, scaled up properly, could be used as a safety measure to avoid misunderstandings. I will admit that it is likely any such regulatory body would likely use other sophisticated measures of detection, but I stil thought it would be a fun little project.
+Spaceship or Missile is a full-stack application that demonstrates my proficiency in web development and machine learning. The app uses React, Flask, and TensorFlow to provide users with an image classification system. The neural network has been trained on a limited dataset of around 100 images, so its performance may not be perfect, but it can recognize the Falcon 9 rocket and an assortment of missiles.
 
 
-# Side features
-The application also includes a short webscraper to help get images from the internet, in the future I plan to integrate this web-scraper into the front end, so that any two items can automatically be pulled from the internet and used to train the model. I also think it would be fun to add a SQL database to this project to store all of the vectorized images.
+In addition to the image classifier, the app features a web scraper that can assist in collecting images from the internet. I plan to integrate this scraper into the front-end to make it easier to retrieve images for training the model. I also aim to include a SQL database to store vectorized images for easy access and management of training data.
+
+
+Overall, Spaceship or Missile is a practical demonstration of my ability to learn new technologies at any level of the stack and apply them to create useful applications.
+
 
