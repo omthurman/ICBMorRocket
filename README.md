@@ -7,5 +7,5 @@ This small app was created to showcase my skills and range of expertise, plus it
 
 
 # Side features
-The application also includes a short webscraper to help get images from the internet, in the future I plan to integrate this web-scraper into the model, so that any two items can automatically be pulled from the internet and used to train the model. I also think it would be fun to add a SQL database to this project to store all of the vectorized images.
+The application also includes a short webscraper to help get images from the internet, in the future I plan to integrate this web-scraper into the front end, so that any two items can automatically be pulled from the internet and used to train the model. I also think it would be fun to add a SQL database to this project to store all of the vectorized images.
 
