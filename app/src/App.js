@@ -28,7 +28,7 @@ function App() {
         formData.append('file', selectedFile);
 
         try {
-            const response = await axios.post('http://localhost:5000/api/upload', formData, {
+            const response = await axios.post('http://api.owenthurman.com/api/upload', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
@@ -45,7 +45,7 @@ function App() {
         e.preventDefault();
 
         try {
-            const response = await axios.post('http://localhost:5000/api/data', { data: inputData });
+            const response = await axios.post('http://api.owenthurman.com/api/data', { data: inputData });
             setResponseData(response.data);
         } catch (error) {
             console.error('Error making API request:', error);
@@ -71,7 +71,7 @@ function App() {
                         
                         
                         <img
-                            src={`http://localhost:5000/uploads/${imageResponse.filename}`}
+                            src={`http://api.owenthurman.com/uploads/${imageResponse.filename}`}
                             alt="Uploaded"
                             className="uploaded-image"
                         />
