@@ -1,3 +1,4 @@
 uploads/*
 app/package-lock.json
 falcon_missile_classifier.h5
+__pycache__/*
